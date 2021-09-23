@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/akshay-seetharam/akshay-se
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-This is the tentative website of Akshay Seetharam, who may use this to catalogue his work or personal projects. If not, that means he was lazy.
+This is the tentative website of Akshay Seetharam, who may use this to catalogue his work or personal projects. If not, that means he was lazy. The first thing that he will try to include is graphs of his Jeopardy! performance based on Coryats.
 
 ### Markdown
 
