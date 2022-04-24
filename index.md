@@ -1,7 +1,5 @@
 ## Welcome to GitHub Pages
 
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Strava Struff</title>
@@ -12,9 +10,6 @@
         .strava-badge-:hover { background-position: 0 -63px; }
         .strava-badge-follow { height: 480px; width: 480px; background: url(//badges.strava.com/echelon-sprite-480.png) no-repeat 0 0; }
     </style>
+    <a href="https://strava.com/athletes/91865061"">Strava Account</a>
     <a href="https://strava.com/athletes/91865061" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-480.png" alt="Strava" /></a>
 </head>
-<body>
-
-</body>
-</html>
