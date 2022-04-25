@@ -5,4 +5,4 @@
 
 # Multivariable Calculus
 <a href="akshay-seetharam.github.io/PolarIntegration.md">Polar Integration</a>
-@@include[PolarIntegration.md](includes/PolarIntegration.md)
+@@include[PolarIntegration.md](PolarIntegration.md)
