@@ -7,4 +7,4 @@
 @@include[PolarIntegration.md](PolarIntegration.md)
 
 # Flatland
-[Flatland.md](Flatland.md)
+[FlatlandEssay.md](FlatlandEssay.md)
